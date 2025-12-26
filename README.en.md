@@ -1,3 +1,11 @@
+[![发布说明](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases)
+[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
+[![Twitter关注](https://img.shields.io/twitter/follow/FlowiseAI?style=social)](https://twitter.com/FlowiseAI)
+[![GitHub星图](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)](https://star-history.com/#FlowiseAI/Flowise)
+[![GitHub分支](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=social)](https://github.com/FlowiseAI/Flowise/fork)
+
+</br>
+
 [English ](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) |[Deutsch](./README.de.md) |[Español](./README.es.md) | [français](./README.fr.md) | [Português](./README.pt.md) | [Русский](./README.ru.md) | [繁體中文](./README.tw.md) 
 
 [简体中文](./README.md) | [العربية](./README.ar.md) | [Indonesia](./README.in.md) | [Italiano](./README.it.md) | [Malay](./README.ms.md) | [ภาษาไทย](./README.th.md) | [Tiếng Việt](./README.vi.md) | [ဗမာ](./README.my.md)
