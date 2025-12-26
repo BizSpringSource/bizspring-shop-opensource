@@ -1,6 +1,6 @@
-<center>[English ](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) |[Deutsch](./README.de.md) |[Español](./README.es.md) | [français](./README.fr.md) | [Português](./README.pt.md) | [Русский](./README.ru.md) | [繁體中文](./README.tw.md) </center>
+[English ](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) |[Deutsch](./README.de.md) |[Español](./README.es.md) | [français](./README.fr.md) | [Português](./README.pt.md) | [Русский](./README.ru.md) | [繁體中文](./README.tw.md) 
 
-<center>[简体中文](./README.md) | [العربية](./README.ar.md) | [Indonesia](./README.in.md) | [Italiano](./README.it.md) | [Malay](./README.ms.md) | [ภาษาไทย](./README.th.md) | [Tiếng Việt](./README.vi.md) | [ဗမာ](./README.my.md)</center>
+[简体中文](./README.md) | [العربية](./README.ar.md) | [Indonesia](./README.in.md) | [Italiano](./README.it.md) | [Malay](./README.ms.md) | [ภาษาไทย](./README.th.md) | [Tiếng Việt](./README.vi.md) | [ဗမာ](./README.my.md)
 
 
   
