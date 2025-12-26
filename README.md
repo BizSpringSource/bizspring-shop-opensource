@@ -1,3 +1,6 @@
+[English ](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) |[Deutsch](./README.de.md) |[Español](./README.es.md) | [français](./README.fr.md) | [Português](./README.pt.md) | [Русский](./README.ru.md) | [繁體中文](./README.tw.md) 
+[简体中文](./README.md) | [العربية](./README.ar.md) | [Indonesia](./README.in.md) | [Italiano](./README.it.md) | [Malay](./README.ms.md) | [ภาษาไทย](./README.th.md) | [Tiếng Việt](./README.vi.md) | [ဗမာ](./README.my.md)
+  
   **跨境电商是在不同国家或地区之间进行在线交易的商业活动，其本质是通过互联网技术和全球物流网络打破传统贸易壁垒，为消费者提供更加多元化、便捷化、优质化的购物体验，同时为卖家提供更广阔的市场和更高的销售机会。**
 
   做好跨境电商要选择合适的产品，了解海外市场，选择合适的跨境电商平台，**建设独立站树立品牌形象，制定合适的定价策略，提供优质的售后服务，创新营销模式**。
@@ -122,4 +125,3 @@ BizSpring电商平台实现移动全渠道消费者覆盖，手机触屏商城�
 ## 技术服务
 - 销售-阿真 微信号： 16619915737
 - QQ技术交流群： 576790917
-- 扫码了解开源跨境电商平台
