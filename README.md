@@ -16,7 +16,7 @@
 
 ### 开源地址
 #### Github
-[https://github.com/BizSpringSource/bizspring-vue3-opensource.git](https://github.com/BizSpringSource/bizspring-vue3-opensource.git)
+[https://github.com/BizSpringSource/bizspring-vue3-opensource.git](https://github.com/BizSpringSource/bizspring-shop-opensource.git)
 # BizSpring核心开源框架
 
 | 名称 | 框架 |
@@ -122,7 +122,4 @@ BizSpring电商平台实现移动全渠道消费者覆盖，手机触屏商城�
 ## 技术服务
 - 销售-阿真 微信号： 16619915737
 - QQ技术交流群： 576790917
-- 公众号：BizSpring
 - 扫码了解开源跨境电商平台
-
-![](https://upload-images.jianshu.io/upload_images/28926578-a28bc778b0299bee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
