@@ -16,7 +16,7 @@
 
 ### 开源地址
 #### Github
-[https://github.com/BizSpringSource/bizspring-vue3-opensource.git](https://github.com/BizSpringSource/bizspring-shop-opensource.git)
+[https://github.com/BizSpringSource/bizspring-shop-opensource.git](https://github.com/BizSpringSource/bizspring-shop-opensource.git)
 # BizSpring核心开源框架
 
 | 名称 | 框架 |
